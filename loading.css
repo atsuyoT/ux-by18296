@@ -1,0 +1,18 @@
+﻿#load-screen {
+    background: url(images/grid.png);
+    position: fixed;
+    z-index: 10000;
+    top: 0px;
+    width: 100%;
+    height: 1600px;
+}
+
+#loading {
+    width: 800px;
+    height: 800px;
+    margin: auto;
+    background: url(images/loading.gif);
+    background-size: 40%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
